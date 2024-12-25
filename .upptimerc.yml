@@ -3,8 +3,6 @@ owner: usarral # Your GitHub organization or username, where this repository liv
 repo: monitor # The name of this repository
 user-agent: usarral
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: Usarral.com
     url: https://usarral.com/health
 
