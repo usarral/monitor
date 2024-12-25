@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Usarral.com
-    url: https://usarral.com
+    url: https://usarral.com/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
