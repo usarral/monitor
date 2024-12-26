@@ -5,6 +5,8 @@ user-agent: usarral
 sites:
   - name: Usarral.com
     url: https://usarral.com/health
+  - name: Usarral.me
+    url: https://usarral.me/health
 
 
 status-website:
