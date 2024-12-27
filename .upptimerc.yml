@@ -7,10 +7,6 @@ sites:
     url: https://usarral.com/health
   - name: Usarral.me
     url: https://usarral.me
-  - name: GDM La Merced
-    url: https://gdmlamerced.com
-  - name: Ilusionista Pedro III
-    url: https://pedrotercero.com
     
 
 status-website:
