@@ -9,6 +9,8 @@ sites:
     url: https://usarral.me
   - name: Cloud Mariol03
     url: https://cloud.mariol03.es
+    assignees:
+      - mariol03
     
 
 status-website:
