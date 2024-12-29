@@ -10,11 +10,11 @@
     "uptimeWeek": "98.28%",
     "uptimeMonth": "98.28%",
     "uptimeYear": "98.28%",
-    "time": 361,
-    "timeDay": 165,
-    "timeWeek": 361,
-    "timeMonth": 361,
-    "timeYear": 361,
+    "time": 352,
+    "timeDay": 167,
+    "timeWeek": 352,
+    "timeMonth": 352,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2024-12-25": 105
     }
@@ -30,31 +30,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 412,
-    "timeWeek": 385,
-    "timeMonth": 385,
-    "timeYear": 385,
+    "time": 377,
+    "timeDay": 384,
+    "timeWeek": 377,
+    "timeMonth": 377,
+    "timeYear": 377,
     "dailyMinutesDown": {}
   },
   {
     "name": "Cloud Mariol03",
-    "url": "https://cloud2.mariol03.es",
-    "icon": "https://icons.duckduckgo.com/ip3/cloud2.mariol03.es.ico",
+    "url": "https://cloud.mariol03.es",
+    "icon": "https://icons.duckduckgo.com/ip3/cloud.mariol03.es.ico",
     "slug": "cloud-mariol03",
-    "status": "down",
-    "uptime": "91.31%",
-    "uptimeDay": "91.31%",
-    "uptimeWeek": "91.31%",
-    "uptimeMonth": "91.31%",
-    "uptimeYear": "91.31%",
-    "time": 513,
-    "timeDay": 513,
-    "timeWeek": 513,
-    "timeMonth": 513,
-    "timeYear": 513,
+    "status": "up",
+    "uptime": "52.87%",
+    "uptimeDay": "52.87%",
+    "uptimeWeek": "52.87%",
+    "uptimeMonth": "52.87%",
+    "uptimeYear": "52.87%",
+    "time": 450,
+    "timeDay": 450,
+    "timeWeek": 450,
+    "timeMonth": 450,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2024-12-29": 0
+      "2024-12-29": 2
     }
   }
 ]
