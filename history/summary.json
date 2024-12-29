@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/usarral.com.ico",
     "slug": "usarral-com",
     "status": "up",
-    "uptime": "97.18%",
+    "uptime": "97.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.18%",
-    "uptimeMonth": "97.18%",
-    "uptimeYear": "97.18%",
-    "time": 398,
-    "timeDay": 212,
-    "timeWeek": 398,
-    "timeMonth": 398,
-    "timeYear": 398,
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "97.97%",
+    "uptimeYear": "97.97%",
+    "time": 385,
+    "timeDay": 177,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2024-12-25": 105
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 292,
-    "timeWeek": 372,
-    "timeMonth": 372,
-    "timeYear": 372,
+    "time": 363,
+    "timeDay": 310,
+    "timeWeek": 363,
+    "timeMonth": 363,
+    "timeYear": 363,
     "dailyMinutesDown": {}
   }
 ]
