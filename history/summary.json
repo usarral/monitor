@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/usarral.com.ico",
     "slug": "usarral-com",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 295,
     "timeDay": 186,
     "timeWeek": 251,
@@ -42,7 +42,7 @@
     "url": "https://cloud.mariol03.es",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.mariol03.es.ico",
     "slug": "cloud-mariol03",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,6 +54,7 @@
     "timeMonth": 399,
     "timeYear": 399,
     "dailyMinutesDown": {
+      "2025-01-11": 0,
       "2024-12-29": 18
     }
   }
