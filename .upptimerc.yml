@@ -7,6 +7,8 @@ sites:
     url: https://usarral.com/health
   - name: Usarral.me
     url: https://usarral.me
+  - name: Pedrotercero
+    url: https://pedrotercero.com
   - name: Cloud Mariol03
     url: https://cloud.mariol03.es
     assignees:
