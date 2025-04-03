@@ -13,6 +13,9 @@ sites:
     url: https://cloud.mariol03.es
     assignees:
       - mariol03
+  - name: Pedro III
+    url: https://pedrotercero.com/health.json
+    
     
 
 status-website:
