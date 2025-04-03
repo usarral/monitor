@@ -44,8 +44,8 @@
     "slug": "the-box-of-the-boss",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "26.50%",
+    "uptimeWeek": "26.50%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 639,
@@ -81,19 +81,19 @@
     "url": "https://pedrotercero.com/health.json",
     "icon": "https://icons.duckduckgo.com/ip3/pedrotercero.com.ico",
     "slug": "pedro-iii",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
-    "time": 347,
-    "timeDay": 347,
-    "timeWeek": 347,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "status": "up",
+    "uptime": "46.32%",
+    "uptimeDay": "46.32%",
+    "uptimeWeek": "46.32%",
+    "uptimeMonth": "46.32%",
+    "uptimeYear": "46.32%",
+    "time": 393,
+    "timeDay": 393,
+    "timeWeek": 393,
+    "timeMonth": 393,
+    "timeYear": 393,
     "dailyMinutesDown": {
-      "2025-04-03": 0
+      "2025-04-03": 24
     }
   }
 ]
