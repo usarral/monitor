@@ -9,10 +9,6 @@ sites:
     url: https://usarral.me
   - name: The Box Of The Boss
     url: https://theboxoftheboss.com/health.json
-  - name: Cloud Mariol03
-    url: https://cloud.mariol03.es
-    assignees:
-      - mariol03
   - name: Pedro III
     url: https://pedrotercero.com/health.json
     
