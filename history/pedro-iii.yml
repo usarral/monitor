@@ -1,7 +1,7 @@
 url: https://pedrotercero.com/health.json
-status: up
-code: 200
-responseTime: 410
-lastUpdated: 2025-04-04T06:27:52.972Z
+status: down
+code: 403
+responseTime: 136
+lastUpdated: 2025-04-04T07:00:28.583Z
 startTime: 2025-04-03T21:34:04.735Z
 generator: Upptime <https://github.com/upptime/upptime>
